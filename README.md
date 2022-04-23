@@ -5,3 +5,4 @@
 #### Challenge 02: [Componentizando a aplicação](https://github.com/Roger-Franco/Desafio-02-Componentizando-a-aplica-o)
 
 ### Seção 2: [DT Money](https://github.com/Roger-Franco/dtmoney)
+#### Challenge 01: [Criando um hook de carrinho de compras](https://github.com/Roger-Franco/Desafio-01---Criando-um-hook-de-carrinho-de-compras)
