@@ -6,3 +6,4 @@
 
 ### Seção 2: [DT Money](https://github.com/Roger-Franco/dtmoney)
 #### Challenge 01: [Criando um hook de carrinho de compras](https://github.com/Roger-Franco/Desafio-01---Criando-um-hook-de-carrinho-de-compras)
+#### Challenge 02: [Refactoring de classes e typescript](https://github.com/Roger-Franco/Desafio-02---Refactoring-de-classes-e-typescript)
